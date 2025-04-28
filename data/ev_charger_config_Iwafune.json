@@ -1,0 +1,15 @@
+{
+    "rated_power": 5.9,
+    "loss_parameters": {
+        "charging": [
+            0.003,
+            0.093,
+            0.050
+        ],
+        "discharging": [
+            0.005,
+            0.063,
+            0.036
+        ]
+    }
+}
